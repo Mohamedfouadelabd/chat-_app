@@ -8,7 +8,7 @@ class MyTheme {
   static ThemeData primaryTheme = ThemeData(
     appBarTheme: AppBarTheme(
         elevation: 0, backgroundColor: Colors.transparent, centerTitle: true),
-    scaffoldBackgroundColor: white,
+
     textTheme: TextTheme(
       titleSmall: TextStyle(
         fontSize: 14,
